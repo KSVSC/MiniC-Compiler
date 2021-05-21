@@ -4,10 +4,10 @@ MiniC Compiler built using LLVM and Antlr parse generator as a part of the Compi
 
 ## Repo Structure
 MiniC Compiler</br>
-|__ [Language specifications manual]() - contains the details about Micro and Macro syntax and Semantics of MiniC. </br>
-|__ [Parser]() - Parses MiniC expressions using Antlr Parse Generator which can be visualised in java GUI </br>
-|__ [MiniC-Compiler]() - Complete compiler which includes Syntax Analyser, Expression Parser, AST Construction, Semantic checks, LLVM IR </br>
-|__ Sample programs written in MiniC can be found [here]() 
+|__ [Language specifications manual](https://github.com/KSVSC/MiniC-Compiler/blob/main/Language%20Manual-%20MiniC%20Compiler.pdf) - contains the details about Micro and Macro syntax and Semantics of MiniC. </br>
+|__ [Parser](https://github.com/KSVSC/MiniC-Compiler/tree/main/parser) - Parses MiniC expressions using Antlr Parse Generator which can be visualised in java GUI </br>
+|__ [MiniC-Compiler](https://github.com/KSVSC/MiniC-Compiler/tree/main/miniC-project) - Complete compiler which includes Syntax Analyser, Expression Parser, AST Construction, Semantic checks, LLVM IR </br>
+|__ Sample programs written in MiniC can be found [here](https://github.com/KSVSC/MiniC-Compiler/tree/main/samplecodes) 
 ## Installation
 
 ### Antlr:
